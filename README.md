@@ -8,7 +8,7 @@
 
 ### Zonghao(Wade) Zhang  
 
-<img align="left" src="./assets/wade.jpg" height="250"/> I am a second-year Master of Science in Geomatics Engineering student at the University of Calgary. My undergraduate degree was completed in Geomatics from the British Columbia Institute of Technology (BCIT) in 2018, which offered me the opportunity to learn and understand Geomatics from traditional land surveying to advanced technologies, such as drone mapping. My current research applies the Agent-Based Model (ABM) in transportation. The multiagent spatiotemporal simulation of autonomous vehicle fleet operation is under development by using the City of Toronto as the use case. Outside of academics, I love reading Chinese poems and history, snowboarding in the resort and backcountry, hiking and archery. I also enjoy teaching snowboarding as a CASI snowboarding instructor.  
+<img align="left" src="./assets/wade.jpg" height="250"/> Wade is a second-year Master of Science in Geomatics Engineering student at the University of Calgary. Wade completed his undergraduate degree in Geomatics (B.Sc) from the British Columbia Institute of Technology (BCIT) in 2018, which offered him the opportunity to learn and understand Geomatics from traditional land surveying to advanced technologies, such as drone mapping. Wade’s current research applies the Agent-Based Model (ABM) in transportation. The multiagent spatiotemporal simulation of autonomous vehicle fleet operation is under development by using the City of Toronto as the use case. Outside of academics, Wade loves reading Chinese poems and history, snowboarding in the resort and backcountry, hiking and archery. He also enjoys teaching snowboarding as a CASI snowboarding instructor. 
 
 ### Mark Empey  
 
