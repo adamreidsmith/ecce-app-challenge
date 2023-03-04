@@ -1,5 +1,28 @@
 # GeoTrio
 
+## Mission Statement
+
+As of 2021, over 73% Canadians lived in large urban centers, and this number is continuing to grow [1]. However, a recent Statistics Canada study [2] showed that urban greenness decreased in nearly every major urban center in Canada in the previous decade.  In particular, Calgary’s urban greenness reduced from 56% in 2011 to only 42% in 2019, and Calgary now ranks with the second lowest urban greenness score out of all large urban centers in Canada at a mere 37.6% [3].
+
+Urban green space provides numerous crucial benefits to the environment and the quality of life of citizens.  The increase in vegetation density that green spaces provide can improve urban air quality and mitigate the effects of urban heat islands by functioning as an air conditioning system, cooling the environment and balancing temperatures [4].  Green spaces also provide habitat to wildlife and increase connectivity of habitats that have been left fragmented by urbanization.  This improves urban biodiversity and reduces conflict between humans and wildlife.  Moreover, green spaces provide substantial improvements to the urban drainage system by increasing the prevalence of pervious landscapes and improving water storage capacity of the soil.  This aids in reducing stormwater runoff and helps protect urban areas against flooding [5].  Finally, especially among children and young adults, access to nature has been shown to improve mental health, reduce stress, and improve cognitive function, leading to healthier and happier communities [6].  As such, increasing urban green space is vital to the health of our urban environments and the communities in which we live.
+
+Our application, [name of app], aims to promote the development of urban green spaces, raise awareness for the need for increased green space in urban environments, and help residents access their local community gardens and green spaces.  We aspire to progress Canadian urban centers towards the United Nations Sustainable Development Goal 11 target 11.7: “By 2030, provide universal access to safe, inclusive and accessible, green and public spaces…” [7].  We do so by providing a tool for urban planners to view and score potential locations for new public green spaces based on sociological and environmental factors.  Moreover, we aim to communicate the importance for green space development by providing visualizations of the reduction in greenness that has occurred in Calgary in the 21st century.  Finally, we provide a tool for Calgarians to view information about their local community gardens and obtain the necessary information to get involved.
+
+
+[1] “Canada's large urban centres continue to grow and spread,” *Statistics Canada*, Feb. 9, 2022. Available: <https://www150.statcan.gc.ca/n1/daily-quotidien/220209/dq220209b-eng.htm>
+
+[2] N. Lantz, M. Grenier and J.Wang, “Urban greenness, 2001, 2011 and 2019,” *Statistics Canada*, Aug. 17, 2021. Available: <https://www150.statcan.gc.ca/n1/en/pub/16-002-x/2021001/article/00002-eng.htm>
+
+[3] “Census of Environment: Urban greenness, 2022,” *Statistics Canada*, Nov. 11, 2022. Available: <https://www150.statcan.gc.ca/n1/daily-quotidien/221117/dq221117e-eng.htm>
+
+[4] P. Hesslerová, J. Pokorný, H. Huryna, J. Seják, and V. Jirka, “The impacts of greenery on urban climate and the options for use of thermal data in urban areas,” *Progress in Planning*, vol. 159, May 2022. Available: <https://doi.org/10.1016/j.progress.2021.100545>
+
+[5] E. Zimmermann, L. Bracalenti, R. Piacentini, and L. Inostroza, “Urban Flood Risk Reduction by Increasing Green Areas for Adaptation to Climate Change,” *Procedia Engineering*, vol. 161, pp. 2241-2246, 2016.  Available: <https://doi.org/10.1016/j.proeng.2016.08.822>
+
+[6] S. Tillmann, D. Tobin, W. Avison, and J. Gilliland, “Mental health benefits of interactions with nature in children and teenagers: a systematic review,” *Epidemiology and Community Health*, vol. 72, no. 10, Sept. 2018. Available: <https://jech.bmj.com/content/72/10/958.abstract>
+
+[7] “Goal 11: Sustainable Cities and communities,” *UNEP*. Available: https://www.unep.org/explore-topics/sustainable-development-goals/why-do-sustainable-development-goals-matter/goal-11
+
 ##  Team Bio's
 
 ### Adam Smith
