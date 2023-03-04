@@ -9,11 +9,11 @@ Urban green space provides numerous crucial benefits to the environment and the 
 Our application, [name of app], aims to promote the development of urban green spaces, raise awareness for the need for increased green space in urban environments, and help residents access their local community gardens and green spaces.  We aspire to progress Canadian urban centers towards the United Nations Sustainable Development Goal 11 target 11.7: “By 2030, provide universal access to safe, inclusive and accessible, green and public spaces…” [7].  We do so by providing a tool for urban planners to view and score potential locations for new public green spaces based on sociological and environmental factors.  Moreover, we aim to communicate the importance for green space development by providing visualizations of the reduction in greenness that has occurred in Calgary in the 21st century.  Finally, we provide a tool for Calgarians to view information about their local community gardens and obtain the necessary information to get involved.
 
 
-[1] “Canada's large urban centres continue to grow and spread,” *Statistics Canada*, Feb. 9, 2022. Available: <https://www150.statcan.gc.ca/n1/daily-quotidien/220209/dq220209b-eng.htm>
+[1] “Canada's large urban centres continue to grow and spread,” *Statistics Canada*, Feb. 2022. Available: <https://www150.statcan.gc.ca/n1/daily-quotidien/220209/dq220209b-eng.htm>
 
-[2] N. Lantz, M. Grenier and J.Wang, “Urban greenness, 2001, 2011 and 2019,” *Statistics Canada*, Aug. 17, 2021. Available: <https://www150.statcan.gc.ca/n1/en/pub/16-002-x/2021001/article/00002-eng.htm>
+[2] N. Lantz, M. Grenier and J.Wang, “Urban greenness, 2001, 2011 and 2019,” *Statistics Canada*, Aug. 2021. Available: <https://www150.statcan.gc.ca/n1/en/pub/16-002-x/2021001/article/00002-eng.htm>
 
-[3] “Census of Environment: Urban greenness, 2022,” *Statistics Canada*, Nov. 11, 2022. Available: <https://www150.statcan.gc.ca/n1/daily-quotidien/221117/dq221117e-eng.htm>
+[3] “Census of Environment: Urban greenness, 2022,” *Statistics Canada*, Nov. 2022. Available: <https://www150.statcan.gc.ca/n1/daily-quotidien/221117/dq221117e-eng.htm>
 
 [4] P. Hesslerová, J. Pokorný, H. Huryna, J. Seják, and V. Jirka, “The impacts of greenery on urban climate and the options for use of thermal data in urban areas,” *Progress in Planning*, vol. 159, May 2022. Available: <https://doi.org/10.1016/j.progress.2021.100545>
 
