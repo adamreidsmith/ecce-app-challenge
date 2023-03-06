@@ -122,10 +122,9 @@ h6 {
 }
 
 #header .logo {
-  font-size: 30px;
-  margin: 0;
-  padding: 0;
-  line-height: 1;
+  font-size: 35px;
+  margin-right: 25px;
+  /* line-height: 1; */
   font-weight: 500;
   letter-spacing: 2px;
   text-transform: uppercase;
@@ -137,6 +136,7 @@ h6 {
 
 #header .logo img {
   max-height: 50px;
+  margin-bottom: 0.5rem;
 }
 
 /*--------------------------------------------------------------
@@ -407,6 +407,12 @@ h6 {
 #hero h2 {
   color: rgba(255, 255, 255, 0.6);
   margin-bottom: 50px;
+  font-size: 24px;
+}
+
+#hero h3 {
+  color: rgba(255, 255, 255, 0.6);
+  margin: 25px;
   font-size: 24px;
 }
 
