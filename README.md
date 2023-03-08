@@ -52,11 +52,11 @@ As can be seen from our analysis, a drastic decrease in tree canopy density is o
 
 ![Green Space Suitability application page](./assets/green_space_suitability.png)
 
-The second main tool of our application is the Green Space Suitability tool, accessible via the Green Space Suitability button in the application's header. This page provides a score to each community, indicating its suitability for green space development, and serves as a tool for urban planners, developers, and anyone interested in developing green spaces in Calgary.  This score takes into account several factors related to access, equity, and the environment to provide two overall scores and three category scores for green space development.  The category scores were computed from 13 separate factors, some of which include bike, public transit, and vehicle access, population density, species at risk in the area, nearness to existing parks, and tree canopy density.  These three category scores are then added directly to obtain the Combined Score.  The Clustered Score utilizes a machine learning approach to provide a score to each community based on the category scores of existing parks.
+The second main tool of our application is the Green Space Suitability tool, accessible via the Green Space Suitability button in the application's header. This page provides a score to each community, indicating its suitability for green space development, and serves as a tool for urban planners, developers, and anyone interested in developing green spaces in Calgary.  This score takes into account several factors related to access, equity, and the environment to provide two overall scores and three category scores for green space development.  The category scores were computed from 13 separate factors, some of which include bike, public transit, and vehicle access, population density, species at risk in the area, nearness to existing parks, and tree canopy density.  These three category scores are then added directly to obtain the Combined Score.  The Clustered Score utilizes a machine learning approach to provide a score to each community based on the category scores of existing parks.  The Clustered score focusses more on aspects which are similar to existing parks, whereas the Combined Score directly utilizes our 13 criteria to provide a balanced measure of suitability.
 
 ### Map
 
-
+The map be here...
 
 
 # Team Bio's
