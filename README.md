@@ -1,4 +1,4 @@
-# GeoTrio
+# Cul-Grow - Promoting the Development of Green Spaces in Calgary
 
 ## Mission Statement
 
