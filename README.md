@@ -42,13 +42,22 @@ The [Branching Out tree program](https://www.calgary.ca/parks-rec-programs/natur
 
 In efforts to support the planting of trees in Calgary, a custom potential tree growth index was developed by GeoTrio. The index aims to illustrate the potential to increase tree growth in each community based on the three parameters: existing public trees, the road network, and land use zoning. A score from 0 to 1 is assigned to each community, with 1 representing high potential for future tree growth, and zero representing low potential.  This tool allows city planners to see which areas are best suited to tree planting efforts.  
 
-To view the tree growth index, select ehe Branching Out Trees - Score layer via the layer selector icon in the top left corner of the map.  Make sure the other layers are hidden, and then click on a community to see its tree growth score.  The score appears directly below the canopy coverage widget.
+To view the tree growth index, select the Branching Out Trees - Score layer via the layer selector icon in the top left corner of the map.  Make sure the other layers are hidden, and then click on a community to see its tree growth score.  The score appears directly below the canopy coverage widget.
+
+### Habitat Destruction in Community 13B
+
+As can be seen from our analysis, a drastic decrease in tree canopy density is observed in the community 13B between 2017 and 2019.  This land lies just south of the west end of Fish Creek Park.  By clicking the up arrow at the bottom middle of the page, a window appears showing before and after photos taken from Google Street Maps of the destruction of the forested land in community 13B.  What was once a thriving forest is now nothing more than muddy grassland.
 
 ## Green Space Suitability
 
 ![Green Space Suitability application page](./assets/green_space_suitability.png)
 
-This page provides an analysis of the best locations for the development of new green spaces in Calgary...
+The second main tool of our application is the Green Space Suitability tool, accessible via the Green Space Suitability button in the application's header. This page provides a score to each community, indicating its suitability for green space development, and serves as a tool for urban planners, developers, and anyone interested in developing green spaces in Calgary.  This score takes into account several factors related to access, equity, and the environment to provide two overall scores and three category scores for green space development.  The category scores were computed from 13 separate factors, some of which include bike, public transit, and vehicle access, population density, species at risk in the area, nearness to existing parks, and tree canopy density.  These three category scores are then added directly to obtain the Combined Score.  The Clustered Score utilizes a machine learning approach to provide a score to each community based on the category scores of existing parks.
+
+### Map
+
+
+
 
 # Team Bio's
 
