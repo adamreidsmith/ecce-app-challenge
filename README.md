@@ -22,11 +22,27 @@ Cul-Grow is split into two main functions: raising awareness for the reduction i
 
 ![Branch Out application page](./assets/branch_out.png)
 
-Our homepage, shown above, is called *Branch Out*, alluding to our mission of raising awareness for and increasing greenery in Calgary.  The main purpose of this page is to communicate the reduction in tree canopy coverage over the past decade, provide a potential tree growth score for each community, and promote the [Branching out tree program](https://www.calgary.ca/parks-rec-programs/nature/tree-giveaway.html), a program devoted to increasing tree coverage in Calgary.  Information about the page and instructions for use can be viewed by clicking the green information button.
+Our homepage, shown above, is called *Branch Out*, alluding to our mission of raising awareness for and increasing greenery in Calgary.  The main purpose of this page is to communicate the reduction in tree canopy coverage over the past decade, provide a potential tree growth score for each community, and promote the [Branching Out tree program](https://www.calgary.ca/parks-rec-programs/nature/tree-giveaway.html), a program devoted to increasing tree coverage in Calgary.  Information about the page and instructions for use can be viewed by clicking the green information button.
 
 ### Map
 
-When the user enters the page, the default map layer shows the tree canopy density in each of Calgary's commnities.  By clicking play on the green timeline widget, the map dynamically updates to show the evolution and reduction in the the tree canopy coverage over the past decade.  By clicking on a community, the tree canopy density will display in the canopy coverage widget located in the top right of the map.
+When the user enters the page, the default map layer shows the tree canopy density in each of Calgary's commnities.  By clicking play on the green timeline widget, the map dynamically updates to show the evolution and reduction in the the tree canopy coverage over the past decade.  When a community is clicked on the map, the tree canopy density will display in the canopy coverage widget located in the top right of the map.
+
+### Charts
+
+The bar chart in the top right of the page displays the top 10 communities with the highest tree canopy density for the currently selected year.  In particular, notice how community 13B has a very high tree canopy density prior to 2017, and then suddenly disappears from the top 10 in the following years.  This is one of many examples of habitat destruction highlighted by our analysis.
+
+The pie chart shows the top 5 most common tree species currently in Calgary.  The most common species, the Wolf Willow, is a sun-loving shrub known for its silvery green foliage, and is native to western Canada.
+
+### Branching Out Tree Program
+
+The [Branching Out tree program](https://www.calgary.ca/parks-rec-programs/nature/tree-giveaway.html) is a program by the city of Calgary focussing on the city’s current and future tree canopy.  As stated on the program's webpage, “Calgary’s tree canopy coverage is currently at 8.25%, this includes trees planted on both public and private property.”  To visualize the current tree coverage, our map includes a dataset containing all public tree locations citywide to allow users to check the public trees in their community.  The goal of the Branching Out program is to increase the tree canopy coverage to at least 16% by supporting residents with information and assistance on planting trees in their neighbourhood, and providing free trees to Calgary residents.  Click the Branching Out tree progam image below the charts to see more on their initiative.
+
+### Potential Tree Growth Score
+
+In efforts to support the planting of trees in Calgary, a custom potential tree growth index was developed by GeoTrio. The index aims to illustrate the potential to increase tree growth in each community based on the three parameters: existing public trees, the road network, and land use zoning. A score from 0 to 1 is assigned to each community, with 1 representing high potential for future tree growth, and zero representing low potential.  This tool allows city planners to see which areas are best suited to tree planting efforts.  
+
+To view the tree growth index, select ehe Branching Out Trees - Score layer via the layer selector icon in the top left corner of the map.  Make sure the other layers are hidden, and then click on a community to see its tree growth score.  The score appears directly below the canopy coverage widget.
 
 ## Green Space Suitability
 
