@@ -14,7 +14,7 @@ Our team, the GeoTrio, has developed an application called Cul-Grow to help addr
 
 This should largely be the same as what Mark is writing in the story map, so we can just copy.
 
-## Application Features and Usage
+## Features and Usage
 
 ### Tree Canopy
 
