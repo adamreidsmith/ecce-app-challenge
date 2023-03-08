@@ -2,33 +2,39 @@
 
 A web app for analyzing the suitabilty of areas in Calgary for green space development, and raising awarness for the diminishing greenery in our city.
 
-## Mission Statement
+# Mission Statement
 
 As of 2021, over 73% Canadians lived in large urban centers, and this number is continuing to grow [1]. However, a recent Statistics Canada study [2] showed that urban greenness decreased in nearly every major urban center in Canada in the previous decade.  In particular, Calgary’s urban greenness reduced from 56% in 2011 to only 42% in 2019, and Calgary now ranks with the second lowest urban greenness score out of all large urban centers in Canada at a mere 37.6% [3].
 
 Urban green space provides numerous crucial benefits to the environment and the quality of life of citizens.  The increase in vegetation density that green spaces provide can improve urban air quality and mitigate the effects of urban heat islands by functioning as an air conditioning system, cooling the environment and balancing temperatures [4].  Green spaces also provide habitat to wildlife and increase connectivity of habitats that have been left fragmented by urbanization.  This improves urban biodiversity and reduces conflict between humans and wildlife.  Moreover, green spaces provide substantial improvements to the urban drainage system by increasing the prevalence of pervious landscapes and improving water storage capacity of the soil.  This aids in reducing stormwater runoff and helps protect urban areas against flooding [5].  Finally, especially among children and young adults, access to nature has been shown to improve mental health, reduce stress, and improve cognitive function, leading to healthier and happier communities [6].  As such, increasing urban green space is vital to the health of our urban environments and the communities in which we live.
 
-In response to the destruction of natural landscapes and habitats in and around the City of Calgary, our team, the GeoTrio, has developed an application called ***Cul-Grow*** to help address the problem of diminishing green space.  Cul-Grow aims to promote the development of urban green spaces, raise awareness for the need for increased green space in Calgary, and highlight the importance of nature within our communities.  We aspire to progress Canadian urban centers towards the United Nations Sustainable Development Goal 11 target 11.7: “By 2030, provide universal access to safe, inclusive and accessible, green and public spaces…” [7].  We do so by providing a tool for urban planners to view and score potential locations for new public green spaces based on sociological and environmental factors.  Moreover, we aim to communicate the importance for green space development by providing a visual analysis of the reduction in greenness that has occurred in Calgary in the 21st century.
+In response to the destruction of natural landscapes and habitats in and around the City of Calgary, our team, the *GeoTrio*, has developed an application called ***Cul-Grow*** to help address the problem of diminishing green space.  Cul-Grow aims to promote the development of urban green spaces, raise awareness for the need for increased green space in Calgary, and highlight the importance of nature within our communities.  We aspire to progress Canadian urban centers towards the United Nations Sustainable Development Goal 11 target 11.7: “By 2030, provide universal access to safe, inclusive and accessible, green and public spaces…” [7].  We do so by providing a tool for urban planners to view and score potential locations for new public green spaces based on sociological and environmental factors.  Moreover, we aim to communicate the importance for green space development by providing a visual analysis of the reduction in greenness that has occurred in Calgary in the 21st century.
 
-## Methodology
+# Methodology
 
 This should largely be the same as what Mark is writing in the story map, so we can just copy.
 
-## Features and Usage
+# Features and Usage
 
-### Tree Canopy
+Cul-Grow is split into two main functions: raising awareness for the reduction in tree canopy cover occurring in Calgary, and providing urban planners with a tool for assessing the suitability of various locations in Calgary or green space development.
 
-[include sample image of page here]
+## Branch Out
 
-Here you can view the change in canopy cover in Calgary over the past decade...
+![Branch Out application page](./assets/branch_out.png)
 
-### Green Space Suitability
+Our homepage, shown above, is called *Branch Out*, alluding to our mission of raising awareness for and increasing greenery in Calgary.  The main purpose of this page is to communicate the reduction in tree canopy coverage over the past decade, provide a potential tree growth score for each community, and promote the [Branching out tree program](https://www.calgary.ca/parks-rec-programs/nature/tree-giveaway.html), a program devoted to increasing tree coverage in Calgary.  Information about the page and instructions for use can be viewed by clicking the green information button.
 
-[include sample image of page here]
+### Map
+
+When the user enters the page, the default map layer shows the tree canopy density in each of Calgary's commnities.  By clicking play on the green timeline widget, the map dynamically updates to show the evolution and reduction in the the tree canopy coverage over the past decade.  By clicking on a community, the tree canopy density will display in the canopy coverage widget located in the top right of the map.
+
+## Green Space Suitability
+
+![Green Space Suitability application page](./assets/green_space_suitability.png)
 
 This page provides an analysis of the best locations for the development of new green spaces in Calgary...
 
-## Team Bio's
+# Team Bio's
 
 ### Adam Smith
 
@@ -42,7 +48,7 @@ This page provides an analysis of the best locations for the development of new 
 
 <img align="left" src="./assets/mark.jpg" height="250"/> When he is not off exploring the Rocky Mountains, Mark can be found trying to keep his tropical plant collection alive or volunteering as a Group Leader for the GoGeomatics Calgary Chapter where he enjoys discussing all things geospatial over a cold beer. After working as a GIS consultant and Geomatics specialist for a number of years, Mark decided to pursue graduate studies and is now a first-year PhD student in the Department of Geomatics Engineering at the University of Calgary. Mark holds an MEng in Geomatics Engineering from the University of Calgary, along with a BSc (Hon.) in Geomatics and a BSc (Hon.) in Physical Geography from Carleton University, where his love for GIS first blossomed. Mark's research interests lie in the application of Geographic Information Systems and Spatial Data Science to address challenges in stormwater infrastructure resilience and environmental modeling. 
 
-## References
+# References
 
 [1] “Canada's large urban centres continue to grow and spread,” *Statistics Canada*, Feb. 2022. Available: <https://www150.statcan.gc.ca/n1/daily-quotidien/220209/dq220209b-eng.htm>
 
