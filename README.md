@@ -48,7 +48,7 @@ The [Branching Out tree program](https://www.calgary.ca/parks-rec-programs/natur
 
 In efforts to support the planting of trees in Calgary, a custom potential tree growth index was developed by GeoTrio. The index aims to illustrate the potential to increase tree growth in each community based on the three parameters: existing public trees, the road network, and land use zoning. A score from 0 to 1 is assigned to each community, with 1 representing high potential for future tree growth, and zero representing low potential.  This tool allows city planners to see which areas are best suited to tree planting efforts.  
 
-To view the tree growth index, select the Branching Out Trees - Score layer via the layer selector icon in the top left corner of the map.  Make sure the other layers are hidden, and then click on a community to see its tree growth score.  The score appears directly below the canopy coverage widget.
+To view the tree growth index, select the Potential Canopy Growth Score layer via the layer selector icon in the top left corner of the map.  Make sure the other layers are hidden, and then click on a community to see its tree growth score.  The score appears directly below the canopy coverage widget.
 
 ### Habitat Destruction in Community 13B
 
