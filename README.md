@@ -1,6 +1,6 @@
 # *Cul-Grow* &mdash; Cultivating Growth in Calgary
 
-A web app for analyzing the suitability of areas in Calgary for green space development, and raising awareness for the diminishing greenery in our city.  Visit our [application](https://google.com), [project website](https://google.com), or read about our motivation and methodology on our interactive [story map](https://storymaps.arcgis.com/stories/de95eb6e007642089686dc1c0b2bd677).
+A web app for analyzing the suitability of areas in Calgary for green space development, and raising awareness for the diminishing greenery in our city.  Visit [Cul-Grow](https://google.com), our [project website](https://google.com), or learn more about our motivations and methodology on our interactive [story map](https://storymaps.arcgis.com/stories/de95eb6e007642089686dc1c0b2bd677).
 
 # Mission Statement
 
