@@ -623,6 +623,11 @@ section {
   margin-bottom: 0;
 }
 
+.about .content .reference {
+  margin-top: 20px;
+  font-size: 8px;
+}
+
 .about .content .btn-learn-more {
   font-family: "Poppins", sans-serif;
   font-weight: 500;
@@ -675,6 +680,12 @@ section {
   margin-bottom: 0;
 }
 
+.image-container img{
+  border-radius: 50px;
+  border:2px solid #000;
+  box-shadow:1px 1px 10px 2px;
+}
+
 .skills .progress {
   height: 60px;
   display: block;
@@ -685,7 +696,6 @@ section {
 .skills .progress .skill {
   padding: 0;
   margin: 0 0 6px 0;
-  text-transform: uppercase;
   display: block;
   font-weight: 600;
   font-family: "Poppins", sans-serif;
@@ -938,16 +948,34 @@ section {
   position: relative;
   height: 700px;
 }
-.contact .wrapper img {
+.contact .wrapper .school img {
   position: absolute;
-  height: 90%;
+  margin-bottom: 2%;
+  max-width: 90%;
+  max-height: 100%;
   z-index: 2;
+  object-fit: contain;
+  border-radius: 25px;
+  box-shadow:1px 1px 10px 2px #120a00;
 }
-.contact .wrapper video {
-  position: absolute;
-  width: 40%;
-  height: 70%;
-  z-index: 1;
+
+.contact .wrapper .dep img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 5%;
+  position: relative;
+  max-width: 90%;
+  max-height: 100%;
+  z-index: 2;
+  object-fit: contain;
+  border-radius: 25px;
+  box-shadow:1px 1px 10px 2px #120a00;
+}
+
+.contact .wrapper p {
+  position: relative;
+  padding-top: 45%;
 }
 
 @-webkit-keyframes animate-loading {
