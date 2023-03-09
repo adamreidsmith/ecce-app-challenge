@@ -64,9 +64,20 @@ Some areas, such as key wildlife and biodiversity zones, habitats, riparian mana
 
 The tree icons on the map show the locations of existing building permits issued by the City of Calgary for various green space projects such as parks, outdoor recreation areas, and community gardens.  By clicking on an icon, the user can view the type of permit and the scores associated to its location.  This layer allows decision makers to identify and prioritize top choices for new permits based on the combined, clustered, and the individual theme scores.  The filter widget available on the right side of the header provides the ability to focus only on permits with high overall or theme scores, allowing a user to quickly narrow down on the best candidates for their application.
 
-### More Widget Functionality
+### Extra Functionality
 
-The widget panel on the right side of the header contains a few other widgets that supplement the Green Space Suitability page.  The Search widget allows the user to search for a community to quickly find and select it on the map, and the Add Data tool provides the ability to add custom layers to the map.  This way, decision makers can upload locations to the appliaction and quickly and visually determine thier suitability scores.
+The widget panel on the right side of the header contains a few other widgets that supplement the Green Space Suitability page.  The Search widget allows the user to search for a community to quickly find and select it on the map, and the Add Data tool provides the ability to add custom layers to the map.  This way, decision makers can upload locations to the app to quickly and visually determine the associated suitability scores.  The existing layers as well as any added layers can be toggled on and off with the provided Layers tool.
+
+Additionally, we have provided some links to external resources for the interested user to learn more about green spaces in and around Calgary, and explore some organizations devoted to promoting parks and the conservation of natural areas in Alberta and across Canada.  These links are accessible via the External Resources button at the bottom of the map.
+
+# Open Data Sources
+
+| <b>Data Layer</b> | <b>Data Source</b> |
+| --- | --- |
+| <b>Provinces and Territories of Canada</br> | esri_canada |
+| <b>Earthquakes in Canada</b><br>(1985-2019) | Government of Canada; Natural Resources |
+| <b>Significant Canadian earthquakes</b><br>(1600-2006) | GEOSCAN Geological Survey of Canada |
+
 
 
 # Team Bio's
