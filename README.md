@@ -52,7 +52,7 @@ To view the tree growth index, select the Branching Out Trees - Score layer via 
 
 ### Habitat Destruction in Community 13B
 
-As can be seen from our analysis, a drastic decrease in tree canopy density is observed in the community 13B between 2017 and 2019.  This land lies just south of the west end of Fish Creek Park.  By clicking the up arrow at the bottom middle of the page, a window appears showing before and after photos taken from Google Street Maps of the destruction of the forested land in community 13B.  What was once a thriving forest is now nothing more than muddy grassland.
+As can be seen from our analysis, a drastic decrease in tree canopy density is observed in the community 13B between 2016 and 2018.  This land lies just south of the west end of Fish Creek Park.  By clicking the up arrow at the bottom middle of the page, a window appears showing before and after photos taken from Google Street Maps of the destruction of the forested land in community 13B.  What was once a thriving forest is now nothing more than muddy grassland.
 
 ## Green Space Suitability
 
