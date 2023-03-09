@@ -72,11 +72,34 @@ Additionally, we have provided some links to external resources for the interest
 
 # Open Data Sources
 
-| <b>Data Layer</b> | <b>Data Source</b> |
-| --- | --- |
-| <b>Provinces and Territories of Canada</br> | esri_canada |
-| <b>Earthquakes in Canada</b><br>(1985-2019) | Government of Canada; Natural Resources |
-| <b>Significant Canadian earthquakes</b><br>(1600-2006) | GEOSCAN Geological Survey of Canada |
+All data obtained for this project is open data provided by Canadian organizations.  The table below summarizes the data used and their source.
+
+
+| Title | Source | Link |
+| --- | --- | --- |
+| City Boundary | City of Calgary’s Open Data Portal | [:link:](https://data.calgary.ca/Base-Maps/City-Boundary/erra-cqp9) |
+| Community Boundaries | City of Calgary’s Open Data Portal | [:link:](https://data.calgary.ca/Base-Maps/Community-Boundaries-2011/j3yz-fb4u) |
+| Tree Canopy Coverage<br/>(2012 - 2020) | City of Calgary’s Open Data Portal | [:link:](https://data.calgary.ca/Environment/Tree-Canopy-coverage-map-2012-2020-/dg68-2qx3) |
+| Public Trees | City of Calgary’s Open Data Portal | [:link:](https://data.calgary.ca/Environment/Public-Trees/tfs4-3wwa) |
+| Land Use Districts | City of Calgary’s Open Data Portal | [:link:](https://data.calgary.ca/Base-Maps/Land-Use-Districts/qe6k-p9nh) |
+| Street Centerline | City of Calgary’s Open Data Portal | [:link:](https://data.calgary.ca/Transportation-Transit/Street-Centreline/4dx8-rtm5) |
+| Major Road Network | City of Calgary’s Open Data Portal | [:link:](https://data.calgary.ca/Transportation-Transit/Major-Road-Network/tqjs-vnhy) |
+| Calgary Bikeways | City of Calgary’s Open Data Portal | [:link:](https://data.calgary.ca/Transportation-Transit/Calgary-Bikeways/jjqk-9b73) |
+| Park Pathways | City of Calgary’s Open Data Portal | [:link:](https://data.calgary.ca/Recreation-and-Culture/Parks-Pathways/qndb-27qm) |
+| Pathway Connector Data | City of Calgary’s Open Data Portal | [:link:](https://data.calgary.ca/Recreation-and-Culture/Pathways-Connector-Data/6eun-p5zf) |
+| Riparian Management Zones | City of Calgary’s Open Data Portal | [:link:](https://data.calgary.ca/Environment/Riparian-Management-Zones/fyid-twcw) |
+|  | City of Calgary’s Open Data Portal | [:link:]() |
+|  | City of Calgary’s Open Data Portal | [:link:]() |
+|  | City of Calgary’s Open Data Portal | [:link:]() |
+|  | City of Calgary’s Open Data Portal | [:link:]() |
+|  | City of Calgary’s Open Data Portal | [:link:]() |
+|  | City of Calgary’s Open Data Portal | [:link:]() |
+|  | City of Calgary’s Open Data Portal | [:link:]() |
+|  | City of Calgary’s Open Data Portal | [:link:]() |
+|  | City of Calgary’s Open Data Portal | [:link:]() |
+
+
+
 
 
 
