@@ -88,8 +88,13 @@ All data obtained for this project is open data provided by Canadian organizatio
 | Park Pathways | City of Calgary’s Open Data Portal | [:link:](https://data.calgary.ca/Recreation-and-Culture/Parks-Pathways/qndb-27qm) |
 | Pathway Connector Data | City of Calgary’s Open Data Portal | [:link:](https://data.calgary.ca/Recreation-and-Culture/Pathways-Connector-Data/6eun-p5zf) |
 | Riparian Management Zones | City of Calgary’s Open Data Portal | [:link:](https://data.calgary.ca/Environment/Riparian-Management-Zones/fyid-twcw) |
-|  | City of Calgary’s Open Data Portal | [:link:]() |
-|  | City of Calgary’s Open Data Portal | [:link:]() |
+| Habitat | City of Calgary’s Open Data Portal | [:link:](https://data.calgary.ca/Environment/Habitat/7tax-5vsg) |
+| Calgary Transit Stops | City of Calgary’s Open Data Portal | [:link:](https://data.calgary.ca/Transportation-Transit/Calgary-Transit-Stops/muzh-c9qc) |
+| Park Sites | City of Calgary’s Open Data Portal | [:link:](https://data.calgary.ca/Recreation-and-Culture/Parks-Sites/i9fu-gjqj) |
+| Digital Elevation Model (DEM) - ASCII 2M | City of Calgary’s Open Data Portal | [:link:](https://data.calgary.ca/Base-Maps/Digital-Elevation-Model-DEM-ASCII-2M/eink-tu9p) |
+| **(Is this the righ one?)** Hydrology | City of Calgary’s Open Data Portal | [:link:](https://data.calgary.ca/Environment/Hydrology/47bt-eefd) |
+| Natural Areas | City of Calgary’s Open Data Portal | [:link:](https://data.calgary.ca/Environment/Natural-Areas/szzc-mugz) |
+| **(Is this the righ one?)** Critical Habitat for Species at Risk National Dataset | Government of Canada | [:link:](https://open.canada.ca/data/en/dataset/47caa405-be2b-4e9e-8f53-c478ade2ca74) |
 |  | City of Calgary’s Open Data Portal | [:link:]() |
 |  | City of Calgary’s Open Data Portal | [:link:]() |
 |  | City of Calgary’s Open Data Portal | [:link:]() |
