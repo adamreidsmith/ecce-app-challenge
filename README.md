@@ -52,7 +52,7 @@ As can be seen from our analysis, a drastic decrease in tree canopy density is o
 
 ![Green Space Suitability application page](./assets/green_space_suitability.png)
 
-The second main tool of our application is the Green Space Suitability tool, accessible via the Green Space Suitability button in the application's header. This page provides a score to each community, indicating its suitability for green space development, and serves as a tool for urban planners, developers, and anyone interested in developing green spaces in Calgary.  This score takes into account several factors related to access, equity, and the environment to provide two overall scores and three category scores for green space development.  The category scores are computed from 13 separate factors, some of which include bike, public transit, and vehicle access, population density, species at risk in the area, nearness to existing parks, and tree canopy density.  These three category scores are then added directly to obtain the Combined Score.  The Clustered Score utilizes a machine learning approach to provide a score to each community based on the category scores of existing parks.  The Clustered Ccore focusses more on aspects which are similar to existing parks, whereas the Combined Score directly utilizes our 13 criteria to provide a balanced measure of suitability.
+The second main function of our application is the Green Space Suitability tool, accessible via the Green Space Suitability button in the application's header. This tool provides a score to each community, indicating its suitability for green space development, and serves as a tool for urban planners, developers, and anyone interested in developing green spaces in Calgary.  This score takes into account several factors related to access, equity, and the environment to provide two overall scores and three category scores for green space development.  The category scores are computed from 13 separate factors, some of which include bike, public transit, and vehicle access, population density, species at risk in the area, nearness to existing parks, and tree canopy density.  These three category scores are then added directly to obtain the Combined Score.  The Clustered Score utilizes a machine learning approach to provide a score to each community based on the category scores of existing parks.  The Clustered Ccore focusses more on aspects which are similar to existing parks, whereas the Combined Score directly utilizes our 13 criteria to provide a balanced measure of suitability.
 
 ### Map & Charts
 
@@ -74,28 +74,27 @@ Additionally, we have provided some links to external resources for the interest
 
 All data obtained for this project is open data provided by Canadian organizations.  The table below summarizes the data used and their source.
 
-
 | Title | Source | Link |
 | --- | --- | --- |
-| City Boundary | City of Calgary’s Open Data Portal | [:link:](https://data.calgary.ca/Base-Maps/City-Boundary/erra-cqp9) |
-| Community Boundaries | City of Calgary’s Open Data Portal | [:link:](https://data.calgary.ca/Base-Maps/Community-Boundaries-2011/j3yz-fb4u) |
+| Natural Areas | City of Calgary’s Open Data Portal | [:link:](https://data.calgary.ca/Environment/Natural-Areas/szzc-mugz) |
+| Habitat | City of Calgary’s Open Data Portal | [:link:](https://data.calgary.ca/Environment/Habitat/7tax-5vsg) |
+| Critical Habitat for Species at Risk National Dataset **(Is this the righ one?)** | Government of Canada | [:link:](https://open.canada.ca/data/en/dataset/47caa405-be2b-4e9e-8f53-c478ade2ca74) |
+| Hydrology **(Is this the righ one?)** | City of Calgary’s Open Data Portal | [:link:](https://data.calgary.ca/Environment/Hydrology/47bt-eefd) |
+| Riparian Management Zones | City of Calgary’s Open Data Portal | [:link:](https://data.calgary.ca/Environment/Riparian-Management-Zones/fyid-twcw) |
+| Park Sites | City of Calgary’s Open Data Portal | [:link:](https://data.calgary.ca/Recreation-and-Culture/Parks-Sites/i9fu-gjqj) |
 | Tree Canopy Coverage<br/>(2012 - 2020) | City of Calgary’s Open Data Portal | [:link:](https://data.calgary.ca/Environment/Tree-Canopy-coverage-map-2012-2020-/dg68-2qx3) |
 | Public Trees | City of Calgary’s Open Data Portal | [:link:](https://data.calgary.ca/Environment/Public-Trees/tfs4-3wwa) |
+| Digital Elevation Model (DEM) - ASCII 2M | City of Calgary’s Open Data Portal | [:link:](https://data.calgary.ca/Base-Maps/Digital-Elevation-Model-DEM-ASCII-2M/eink-tu9p) |
 | Land Use Districts | City of Calgary’s Open Data Portal | [:link:](https://data.calgary.ca/Base-Maps/Land-Use-Districts/qe6k-p9nh) |
+| City Boundary | City of Calgary’s Open Data Portal | [:link:](https://data.calgary.ca/Base-Maps/City-Boundary/erra-cqp9) |
+| Community Boundaries | City of Calgary’s Open Data Portal | [:link:](https://data.calgary.ca/Base-Maps/Community-Boundaries-2011/j3yz-fb4u) |
+| Census by Community 2019 | City of Calgary’s Open Data Portal | [:link:](https://data.calgary.ca/Demographics/Census-by-Community-2019/rkfr-buzb) |
 | Street Centerline | City of Calgary’s Open Data Portal | [:link:](https://data.calgary.ca/Transportation-Transit/Street-Centreline/4dx8-rtm5) |
 | Major Road Network | City of Calgary’s Open Data Portal | [:link:](https://data.calgary.ca/Transportation-Transit/Major-Road-Network/tqjs-vnhy) |
+| Calgary Transit Stops | City of Calgary’s Open Data Portal | [:link:](https://data.calgary.ca/Transportation-Transit/Calgary-Transit-Stops/muzh-c9qc) |
 | Calgary Bikeways | City of Calgary’s Open Data Portal | [:link:](https://data.calgary.ca/Transportation-Transit/Calgary-Bikeways/jjqk-9b73) |
 | Park Pathways | City of Calgary’s Open Data Portal | [:link:](https://data.calgary.ca/Recreation-and-Culture/Parks-Pathways/qndb-27qm) |
 | Pathway Connector Data | City of Calgary’s Open Data Portal | [:link:](https://data.calgary.ca/Recreation-and-Culture/Pathways-Connector-Data/6eun-p5zf) |
-| Riparian Management Zones | City of Calgary’s Open Data Portal | [:link:](https://data.calgary.ca/Environment/Riparian-Management-Zones/fyid-twcw) |
-| Habitat | City of Calgary’s Open Data Portal | [:link:](https://data.calgary.ca/Environment/Habitat/7tax-5vsg) |
-| Calgary Transit Stops | City of Calgary’s Open Data Portal | [:link:](https://data.calgary.ca/Transportation-Transit/Calgary-Transit-Stops/muzh-c9qc) |
-| Park Sites | City of Calgary’s Open Data Portal | [:link:](https://data.calgary.ca/Recreation-and-Culture/Parks-Sites/i9fu-gjqj) |
-| Digital Elevation Model (DEM) - ASCII 2M | City of Calgary’s Open Data Portal | [:link:](https://data.calgary.ca/Base-Maps/Digital-Elevation-Model-DEM-ASCII-2M/eink-tu9p) |
-| **(Is this the righ one?)** Hydrology | City of Calgary’s Open Data Portal | [:link:](https://data.calgary.ca/Environment/Hydrology/47bt-eefd) |
-| Natural Areas | City of Calgary’s Open Data Portal | [:link:](https://data.calgary.ca/Environment/Natural-Areas/szzc-mugz) |
-| **(Is this the righ one?)** Critical Habitat for Species at Risk National Dataset | Government of Canada | [:link:](https://open.canada.ca/data/en/dataset/47caa405-be2b-4e9e-8f53-c478ade2ca74) |
-|  | City of Calgary’s Open Data Portal | [:link:]() |
 |  | City of Calgary’s Open Data Portal | [:link:]() |
 |  | City of Calgary’s Open Data Portal | [:link:]() |
 |  | City of Calgary’s Open Data Portal | [:link:]() |
