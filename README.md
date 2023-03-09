@@ -1,6 +1,6 @@
 # *Cul-Grow* &mdash; Cultivating Growth in Calgary
 
-A web app for analyzing the suitability of areas in Calgary for green space development, and raising awareness for the diminishing greenery in our city.  Visit our [application](https://google.com), [project website](https://google.com), or read about our motivation and methodology on our interactive [story map](https://storymaps.arcgis.com/stories/de95eb6e007642089686dc1c0b2bd677).
+A web app for analyzing the suitability of areas in Calgary for green space development, and raising awareness for the diminishing greenery in our city.  Visit [Cul-Grow](https://google.com), our [project website](https://google.com), or learn more about our motivations and methodology on our interactive [story map](https://storymaps.arcgis.com/stories/de95eb6e007642089686dc1c0b2bd677).
 
 # Mission Statement
 
@@ -18,7 +18,7 @@ Urban green space refers to any land within an urban area that is covered by veg
 
 To address the loss of green spaces and natural landscapes in Calgary, Team GeoTrio at the University of Calgary developed an application, [Cul-Grow](https://google.com), using ESRI technology to promote the Cultivation and Growth of green spaces and natural areas within the city. The application offers tools to highlight and examine the evolution of green space over the past five years. As well, the application provides practitioners and decision makers with functionality to identify suitable locations for new green spaces and evaluate existing development permits that promote the growth of greenspaces with the goal of highlighting the importance of nature within our communities.
 
-To read more about our motivation and methodology, and to see interactive visualizations of the ecological devistation occurring in Calgary, visit our [story map](https://storymaps.arcgis.com/stories/de95eb6e007642089686dc1c0b2bd677).
+To read more about our motivations and methodology, and to see interactive visualizations of the environmental degradation occurring in Calgary, visit our [story map](https://storymaps.arcgis.com/stories/de95eb6e007642089686dc1c0b2bd677).
 
 # Features and Usage
 
@@ -52,7 +52,7 @@ To view the tree growth index, select the Branching Out Trees - Score layer via 
 
 ### Habitat Destruction in Community 13B
 
-As can be seen from our analysis, a drastic decrease in tree canopy density is observed in the community 13B between 2017 and 2019.  This land lies just south of the west end of Fish Creek Park.  By clicking the up arrow at the bottom middle of the page, a window appears showing before and after photos taken from Google Street Maps of the destruction of the forested land in community 13B.  What was once a thriving forest is now nothing more than muddy grassland.
+As can be seen from our analysis, a drastic decrease in tree canopy density is observed in the community 13B between 2016 and 2018.  This land lies just south of the west end of Fish Creek Park.  By clicking the up arrow at the bottom middle of the page, a window appears showing before and after photos taken from Google Street Maps of the destruction of the forested land in community 13B.  What was once a thriving forest is now nothing more than muddy grassland.
 
 ## Green Space Suitability
 
