@@ -79,7 +79,7 @@ All data obtained for this project is open data provided by Canadian organizatio
 | --- | --- | --- |
 | City Boundary | City of Calgary’s Open Data Portal | [:link:](https://data.calgary.ca/Base-Maps/City-Boundary/erra-cqp9) |
 | Community Boundaries | City of Calgary’s Open Data Portal | [:link:](https://data.calgary.ca/Base-Maps/Community-Boundaries-2011/j3yz-fb4u) |
-| Tree Canopy Coverage (2012 - 2020) | City of Calgary’s Open Data Portal | [:link:](https://data.calgary.ca/Environment/Tree-Canopy-coverage-map-2012-2020-/dg68-2qx3) |
+| Tree Canopy Coverage<br/>(2012 - 2020) | City of Calgary’s Open Data Portal | [:link:](https://data.calgary.ca/Environment/Tree-Canopy-coverage-map-2012-2020-/dg68-2qx3) |
 | Public Trees | City of Calgary’s Open Data Portal | [:link:](https://data.calgary.ca/Environment/Public-Trees/tfs4-3wwa) |
 | Land Use Districts | City of Calgary’s Open Data Portal | [:link:](https://data.calgary.ca/Base-Maps/Land-Use-Districts/qe6k-p9nh) |
 | Street Centerline | City of Calgary’s Open Data Portal | [:link:](https://data.calgary.ca/Transportation-Transit/Street-Centreline/4dx8-rtm5) |
