@@ -1,6 +1,6 @@
 # *Cul-Grow* &mdash; Cultivating Growth in Calgary
 
-A web app for analyzing the suitabilty of areas in Calgary for green space development, and raising awarness for the diminishing greenery in our city.  Visit our [application](https://google.com), [project website](https://google.com), or read about our motivation and methodology on our interactive [story map](https://storymaps.arcgis.com/stories/de95eb6e007642089686dc1c0b2bd677).
+A web app for analyzing the suitability of areas in Calgary for green space development, and raising awareness for the diminishing greenery in our city.  Visit our [application](https://google.com), [project website](https://google.com), or read about our motivation and methodology on our interactive [story map](https://storymaps.arcgis.com/stories/de95eb6e007642089686dc1c0b2bd677).
 
 # Mission Statement
 
@@ -42,7 +42,7 @@ The pie chart shows the top 5 most common tree species currently in Calgary.  Th
 
 ### Branching Out Tree Program
 
-The [Branching Out tree program](https://www.calgary.ca/parks-rec-programs/nature/tree-giveaway.html) is a program by the city of Calgary focussing on the city’s current and future tree canopy.  As stated on the program's webpage, “Calgary’s tree canopy coverage is currently at 8.25%, this includes trees planted on both public and private property.”  To visualize the current tree coverage, our map includes a dataset containing all public tree locations citywide to allow users to check the public trees in their community.  The goal of the Branching Out program is to increase the tree canopy coverage to at least 16% by supporting residents with information and assistance on planting trees in their neighbourhood, and providing free trees to Calgary residents.  Click the Branching Out tree progam image below the charts to see more on their initiative.
+The [Branching Out tree program](https://www.calgary.ca/parks-rec-programs/nature/tree-giveaway.html) is a program by the city of Calgary focussing on the city’s current and future tree canopy.  As stated on the program's webpage, “Calgary’s tree canopy coverage is currently at 8.25%, this includes trees planted on both public and private property.”  To visualize the current tree coverage, our map includes a dataset containing all public tree locations citywide to allow users to check the public trees in their community.  The goal of the Branching Out program is to increase the tree canopy coverage to at least 16% by supporting residents with information and assistance on planting trees in their neighbourhood, and providing free trees to Calgary residents.  Click the Branching Out tree program image below the charts to see more on their initiative.
 
 ### Potential Tree Growth Score
 
@@ -58,17 +58,17 @@ As can be seen from our analysis, a drastic decrease in tree canopy density is o
 
 ![Green Space Suitability application page](./assets/green_space_suitability.png)
 
-The second main function of our application is the Green Space Suitability tool, accessible via the Green Space Suitability button in the application's header. This tool provides a score to each community, indicating its suitability for green space development, and serves as a tool for urban planners, developers, and anyone interested in developing green spaces in Calgary.  This custom index was designed to align with relevant community and provincial guidelines, and takes into account several factors related to access, equity, and the environment to provide two overall scores and three category scores for green space development.  The category scores are computed from 13 separate factors, some of which include bike, public transit, and vehicle access, population density, species at risk in the area, nearness to existing parks, and tree canopy density.  These three category scores are then added directly to obtain the Combined Score.  The Clustered Score utilizes a machine learning approach to provide a score to each community based on the category scores of existing parks.  The Clustered Ccore focusses more on aspects which are similar to existing parks, whereas the Combined Score directly utilizes our 13 criteria to provide a balanced measure of suitability.
+The second main function of our application is the Green Space Suitability tool, accessible via the Green Space Suitability button in the application's header. This tool provides a score to each community, indicating its suitability for green space development, and serves as a tool for urban planners, developers, and anyone interested in developing green spaces in Calgary.  This custom index was designed to align with relevant community and provincial guidelines, and takes into account several factors related to access, equity, and the environment to provide two overall scores and three category scores for green space development.  The category scores are computed from 13 separate factors, some of which include bike, public transit, and vehicle access, population density, species at risk in the area, nearness to existing parks, and tree canopy density.  These three category scores are then added directly to obtain the Combined Score.  The Clustered Score utilizes a machine learning approach to provide a score to each community based on the category scores of existing parks.  The Clustered Score focuses more on aspects which are similar to existing parks, whereas the Combined Score directly utilizes our 13 criteria to provide a balanced measure of suitability.
 
 ### Map & Charts
 
-The main map allows you to visualize the Combined Score of each of the communities in Calgary.  To view further details, click a community on the map.  The top two charts on the left side display the suitabilty metrics in graphical form for the selected community.  This allows the user to easily obtain suitability metrics for any community, and compare the suitability of communities for green space development across Calgary.
+The main map allows you to visualize the Combined Score of each of the communities in Calgary.  To view further details, click a community on the map.  The top two charts on the left side display the suitability metrics in graphical form for the selected community.  This allows the user to easily obtain suitability metrics for any community, and compare the suitability of communities for green space development across Calgary.
 
-Some areas, such as key wildlife and biodiversity zones, habitats, riparian management zones, existing green spaces, and airports are unsuitable new green space development.  As such, we consider these areas as restricted areas, meaning that development of new parks or recreations areas is not feasible in these regions.  The Proportion of Restricted Area chart presents the proportion of land within a community that is restricted area, and the proportion that is potentially suitable for new green space development.
+Some areas, such as key wildlife and biodiversity zones, habitats, riparian management zones, existing green spaces, and airports are unsuitable for new green space development.  As such, we consider these areas as restricted areas, meaning that development of new parks or recreational areas is not feasible in these regions.  The Proportion of Restricted Area chart presents the proportion of land within a community that is restricted area, and the proportion that is potentially suitable for new green space development.
 
 ### Existing Green Space Permits
 
-The tree icons on the map show the locations of existing building permits issued by the City of Calgary for various green space projects such as parks, outdoor recreation areas, and community gardens.  By clicking on an icon, the user can view the type of permit and the scores associated to its location.  This layer allows decision makers to identify and prioritize top choices for new permits based on the combined, clustered, and the individual theme scores.  The filter widget available on the right side of the header provides the ability to focus only on permits with high overall or theme scores, allowing a user to quickly narrow down on the best candidates for their application.
+The tree icons on the map show the locations of existing building permits issued by the City of Calgary for various green space projects such as parks, outdoor recreation areas, and community gardens.  By clicking on an icon, the user can view the type of permit and the scores associated with its location.  This layer allows decision makers to identify and prioritize top choices for new permits based on the combined, clustered, and the individual theme scores.  The filter widget available on the right side of the header provides the ability to focus only on permits with high overall or theme scores, allowing a user to quickly narrow down on the best candidates for their application.
 
 ### Extra Functionality
 
@@ -109,11 +109,6 @@ All data obtained for this project is open data provided by Canadian organizatio
 |  | City of Calgary’s Open Data Portal | [:link:]() |
 |  | City of Calgary’s Open Data Portal | [:link:]() |
 |  | City of Calgary’s Open Data Portal | [:link:]() |
-
-
-
-
-
 
 # Team Bio's
 
