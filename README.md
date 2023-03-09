@@ -1,6 +1,6 @@
-# *Cul-Grow* &mdash; Promoting the Development of Green Spaces in Calgary
+# *Cul-Grow* &mdash; Cultivating Growth in Calgary
 
-A web app for analyzing the suitabilty of areas in Calgary for green space development, and raising awarness for the diminishing greenery in our city.
+A web app for analyzing the suitabilty of areas in Calgary for green space development, and raising awarness for the diminishing greenery in our city.  Visit our [application](https://google.com), [project website](https://google.com), or read about our motivation and methodology on our interactive [story map](https://storymaps.arcgis.com/stories/de95eb6e007642089686dc1c0b2bd677).
 
 # Mission Statement
 
@@ -12,7 +12,7 @@ In response to the destruction of natural landscapes and habitats in and around 
 
 # Motivation & Methodology
 
-This should largely be the same as what Mark is writing in the story map, so we can just copy.
+Nestled in the foothills of the Rocky Mountains, Calgarians takes immense pride in the Cities reputation for outdoor recreation. The city's world-famous stampedes and hockey games continue to draw visitors from all corners of the globe. In recent years, the city has witnessed an unprecedented surge in population growth, and with it, an expansion of urban development. While the development may be necessary, the unfortunate consequence has been the proliferation of parking lots and other artificial structures, turning Calgary into a concrete jungle with the lowest levels of urban greenery among Canada's top five most populous cities. Statistics Canada reported a 20% loss of green space in Calgary between 2011 and 2023, serving as a poignant reminder of how human activity can irrevocably damage natural landscapes and habitats.
 
 # Features and Usage
 
