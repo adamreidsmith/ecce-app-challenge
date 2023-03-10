@@ -82,7 +82,7 @@ Additionally, we have provided some links to external resources for the interest
 
 All data obtained for this project is open data provided by Canadian organizations.  The table below summarizes the data used and their source.
 
-| Title | Source | Link |
+| Dataset | Source | Link |
 | --- | --- | --- |
 | Natural Areas | City of Calgary’s Open Data Portal | [:link:](https://data.calgary.ca/Environment/Natural-Areas/szzc-mugz) |
 | Habitat | City of Calgary’s Open Data Portal | [:link:](https://data.calgary.ca/Environment/Habitat/7tax-5vsg) |
