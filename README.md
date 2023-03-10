@@ -86,12 +86,14 @@ All data obtained for this project is open data provided by Canadian organizatio
 | --- | --- | --- |
 | Natural Areas | City of Calgary’s Open Data Portal | [:link:](https://data.calgary.ca/Environment/Natural-Areas/szzc-mugz) |
 | Habitat | City of Calgary’s Open Data Portal | [:link:](https://data.calgary.ca/Environment/Habitat/7tax-5vsg) |
-| Critical Habitat for Species at Risk National Dataset | Government of Canada | [:link:](https://open.canada.ca/data/en/dataset/47caa405-be2b-4e9e-8f53-c478ade2ca74) |
+| Number of Species at Risk | Government of Canada | [:link:](https://open.canada.ca/data/en/dataset/6c7e9bb6-17e1-4e41-b49c-23261c8eefbc) |
 | Hydrography | Altalis | [:link:](https://www.altalis.com/map;id=116) |
 | Riparian Management Zones | City of Calgary’s Open Data Portal | [:link:](https://data.calgary.ca/Environment/Riparian-Management-Zones/fyid-twcw) |
 | Park Sites | City of Calgary’s Open Data Portal | [:link:](https://data.calgary.ca/Recreation-and-Culture/Parks-Sites/i9fu-gjqj) |
 | Tree Canopy Coverage<br/>(2012 - 2020) | City of Calgary’s Open Data Portal | [:link:](https://data.calgary.ca/Environment/Tree-Canopy-coverage-map-2012-2020-/dg68-2qx3) |
 | Public Trees | City of Calgary’s Open Data Portal | [:link:](https://data.calgary.ca/Environment/Public-Trees/tfs4-3wwa) |
+| Key Wildlife and Biodiversity Zones | Alberta Open Data | [:link:](https://www.alberta.ca/wildlife-sensitivity-maps.aspx#jumplinks-0) |
+| Canadian Protected and Conserved Areas | Government of Canada | [:link:](https://www.canada.ca/en/environment-climate-change/services/national-wildlife-areas/protected-conserved-areas-database.html) |
 | Digital Elevation Model (DEM) - ASCII 2M | City of Calgary’s Open Data Portal | [:link:](https://data.calgary.ca/Base-Maps/Digital-Elevation-Model-DEM-ASCII-2M/eink-tu9p) |
 | Land Use Districts | City of Calgary’s Open Data Portal | [:link:](https://data.calgary.ca/Base-Maps/Land-Use-Districts/qe6k-p9nh) |
 | City Boundary | City of Calgary’s Open Data Portal | [:link:](https://data.calgary.ca/Base-Maps/City-Boundary/erra-cqp9) |
@@ -103,12 +105,7 @@ All data obtained for this project is open data provided by Canadian organizatio
 | Calgary Bikeways | City of Calgary’s Open Data Portal | [:link:](https://data.calgary.ca/Transportation-Transit/Calgary-Bikeways/jjqk-9b73) |
 | Park Pathways | City of Calgary’s Open Data Portal | [:link:](https://data.calgary.ca/Recreation-and-Culture/Parks-Pathways/qndb-27qm) |
 | Pathway Connector Data | City of Calgary’s Open Data Portal | [:link:](https://data.calgary.ca/Recreation-and-Culture/Pathways-Connector-Data/6eun-p5zf) |
-|  | City of Calgary’s Open Data Portal | [:link:]() |
-|  | City of Calgary’s Open Data Portal | [:link:]() |
-|  | City of Calgary’s Open Data Portal | [:link:]() |
-|  | City of Calgary’s Open Data Portal | [:link:]() |
-|  | City of Calgary’s Open Data Portal | [:link:]() |
-|  | City of Calgary’s Open Data Portal | [:link:]() |
+
 
 # Team Bio's
 
