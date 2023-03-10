@@ -1,6 +1,6 @@
 # *Cul-Grow* &mdash; Cultivating Growth in Calgary
 
-A web app for analyzing the suitability of areas in Calgary for green space development, and raising awareness for the diminishing greenery in our city.  Visit [Cul-Grow](https://google.com), our [project website](https://google.com), or learn more about our motivations and methodology on our interactive [story map](https://storymaps.arcgis.com/stories/de95eb6e007642089686dc1c0b2bd677).
+A web app for analyzing the suitability of areas in Calgary for green space development, and raising awareness for the diminishing greenery in our city.  Visit [Cul-Grow](https://experience.arcgis.com/experience/faa11e97b9a74cf5b5a54123e1ddebd4), our [project website](https://google.com), or learn more about our motivations and methodology in our interactive [story map](https://storymaps.arcgis.com/stories/de95eb6e007642089686dc1c0b2bd677).
 
 # Mission Statement
 
@@ -16,7 +16,7 @@ Nestled in the foothills of the Rocky Mountains, Calgarians take immense pride i
 
 Urban green space refers to any land within an urban area that is covered by vegetation such as trees, plants, gardens, or parks. It provides a multitude of ecological, social, and economic benefits to the community, and facilitates the interactions between living organisms and their physical and social environment.
 
-To address the loss of green spaces and natural landscapes in Calgary, Team GeoTrio at the University of Calgary developed an application, [Cul-Grow](https://google.com), using ESRI technology to promote the Cultivation and Growth of green spaces and natural areas within the city. The application offers tools to highlight and examine the evolution of green space over the past five years. As well, the application provides practitioners and decision makers with functionality to identify suitable locations for new green spaces and evaluate existing development permits that promote the growth of greenspaces with the goal of highlighting the importance of nature within our communities.
+To address the loss of green spaces and natural landscapes in Calgary, Team GeoTrio at the University of Calgary developed an application, [Cul-Grow](https://experience.arcgis.com/experience/faa11e97b9a74cf5b5a54123e1ddebd4), using ESRI technology to promote the Cultivation and Growth of green spaces and natural areas within the city. The application offers tools to highlight and examine the evolution of green space over the past five years. As well, the application provides practitioners and decision makers with functionality to identify suitable locations for new green spaces and evaluate existing development permits that promote the growth of greenspaces with the goal of highlighting the importance of nature within our communities.
 
 To read more about our motivations and methodology, and to see interactive visualizations of the environmental degradation occurring in Calgary, visit our [story map](https://storymaps.arcgis.com/stories/de95eb6e007642089686dc1c0b2bd677).
 
@@ -48,7 +48,7 @@ The [Branching Out tree program](https://www.calgary.ca/parks-rec-programs/natur
 
 In efforts to support the planting of trees in Calgary, a custom potential tree growth index was developed by GeoTrio. The index aims to illustrate the potential to increase tree growth in each community based on the three parameters: existing public trees, the road network, and land use zoning. A score from 0 to 1 is assigned to each community, with 1 representing high potential for future tree growth, and zero representing low potential.  This tool allows city planners to see which areas are best suited to tree planting efforts.  
 
-To view the tree growth index, select the Branching Out Trees - Score layer via the layer selector icon in the top left corner of the map.  Make sure the other layers are hidden, and then click on a community to see its tree growth score.  The score appears directly below the canopy coverage widget.
+To view the tree growth index, select the Potential Canopy Growth Score layer via the layer selector icon in the top left corner of the map.  Make sure the other layers are hidden, and then click on a community to see its tree growth score.  The score appears directly below the canopy coverage widget.
 
 ### Habitat Destruction in Community 13B
 
