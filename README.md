@@ -86,8 +86,8 @@ All data obtained for this project is open data provided by Canadian organizatio
 | --- | --- | --- |
 | Natural Areas | City of Calgary’s Open Data Portal | [:link:](https://data.calgary.ca/Environment/Natural-Areas/szzc-mugz) |
 | Habitat | City of Calgary’s Open Data Portal | [:link:](https://data.calgary.ca/Environment/Habitat/7tax-5vsg) |
-| Critical Habitat for Species at Risk National Dataset **(Is this the right one?)** | Government of Canada | [:link:](https://open.canada.ca/data/en/dataset/47caa405-be2b-4e9e-8f53-c478ade2ca74) |
-| Hydrology **(Is this the right one?)** | City of Calgary’s Open Data Portal | [:link:](https://data.calgary.ca/Environment/Hydrology/47bt-eefd) |
+| Critical Habitat for Species at Risk National Dataset | Government of Canada | [:link:](https://open.canada.ca/data/en/dataset/47caa405-be2b-4e9e-8f53-c478ade2ca74) |
+| Hydrography | Altalis | [:link:](https://www.altalis.com/map;id=116) |
 | Riparian Management Zones | City of Calgary’s Open Data Portal | [:link:](https://data.calgary.ca/Environment/Riparian-Management-Zones/fyid-twcw) |
 | Park Sites | City of Calgary’s Open Data Portal | [:link:](https://data.calgary.ca/Recreation-and-Culture/Parks-Sites/i9fu-gjqj) |
 | Tree Canopy Coverage<br/>(2012 - 2020) | City of Calgary’s Open Data Portal | [:link:](https://data.calgary.ca/Environment/Tree-Canopy-coverage-map-2012-2020-/dg68-2qx3) |
